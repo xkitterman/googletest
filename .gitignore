@@ -1,2 +1,5 @@
 # Ignore CI build directory
 build/
+
+# Ignore bazel build files
+bazel-*
